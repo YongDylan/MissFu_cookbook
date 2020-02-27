@@ -8,7 +8,7 @@ This is Miss Fu's  cookbook.
 
 ### 1.凉拌银耳
 
-![凉拌银耳](/Users/ldy/ldy_code/github/missfu_pics/凉拌银耳.jpeg)
+![凉拌银耳](images/凉拌银耳.jpeg)
 
 ## 热菜
 
